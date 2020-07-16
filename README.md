@@ -1,4 +1,4 @@
-![](https://undatus.tech/wp-content/uploads/2020/07/github.png)
+![](https://undatus.tech/wp-content/uploads/2020/07/github-e1594911015124.png)
 
 ![](https://img.shields.io/badge/-natandiasm-blue?style=flat-square&logo=linkedin)
 
