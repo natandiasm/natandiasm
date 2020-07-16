@@ -7,11 +7,8 @@
 I always like to study new things, and now I am studying these languages.
 
 ![](https://img.shields.io/badge/-flutter-02569B?style=flat-square&logo=flutter)
-
 ![](https://img.shields.io/badge/-dart-0175C2?style=flat-square&logo=dart)
-
 ![](https://img.shields.io/badge/-node-000000?style=flat-square&logo=node.js)
-
 ![](https://img.shields.io/badge/-python-41CD52?style=flat-square&logo=python)
 
 ### 💡Creativity is everything.
