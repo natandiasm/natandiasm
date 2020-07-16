@@ -1,7 +1,7 @@
-## Hello, I'm Natan 👋🏽 
+## 👋🏽 Hello, I'm Natan  
 ![](https://img.shields.io/badge/-natandiasm-blue?style=flat-square&logo=linkedin)
 
-👨🏽‍💻 I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
+I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
 
 ### 👨🏽‍🏫 Study much more.
 I always like to study new things, and now I am studying these languages.
