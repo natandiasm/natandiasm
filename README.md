@@ -1,6 +1,6 @@
 ![](https://undatus.tech/wp-content/uploads/2020/07/github.png)
 
-![](https://img.shields.io/badge/-natandiasm-blue?style=flat-square&logo=linkedin)
+Follow me ![](https://img.shields.io/badge/-natandiasm-blue?style=flat-square&logo=linkedin)
 
 I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
 
