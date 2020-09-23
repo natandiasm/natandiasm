@@ -16,3 +16,7 @@ I always like to study new things, and now I am studying these languages.
 ### 💡Creativity is everything.
 I believe that ideas are the most important in all aspects of life. I like to take this aspect into the UI that I make using Adobe XD and I am studying inVision Studio.
 
+### 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natandiasm)](https://github.com/natandiasm)
+
+[![Natandiasm's github stats](https://github-readme-stats.vercel.app/api?username=natandiasm)](https://github.com/natandiasm)
