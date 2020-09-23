@@ -18,5 +18,4 @@ I believe that ideas are the most important in all aspects of life. I like to ta
 
 ### 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natandiasm)](https://github.com/natandiasm)
-
 [![Natandiasm's github stats](https://github-readme-stats.vercel.app/api?username=natandiasm)](https://github.com/natandiasm)
