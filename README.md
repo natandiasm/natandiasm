@@ -1,4 +1,4 @@
-![](https://undatus.tech/wp-content/uploads/2020/07/github-e1594911015124.png)
+![](https://github.com/natandiasm/natandiasm/blob/master/68747470733a2f2f756e64617475732e746563682f77702d636f6e74656e742f75706c6f6164732f323032302f30372f6769746875622d65313539343931313031353132342e706e67.png?raw=true)
 
 ![](https://img.shields.io/badge/-natandiasm-blue?style=flat-square&logo=linkedin)
 ![](https://img.shields.io/badge/-natandias1-1769FF?style=flat-square&logo=behance)
