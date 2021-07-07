@@ -1,4 +1,6 @@
-![](https://github.com/natandiasm/natandiasm/blob/master/68747470733a2f2f756e64617475732e746563682f77702d636f6e74656e742f75706c6f6164732f323032302f30372f6769746875622d65313539343931313031353132342e706e67.png?raw=true)
+![](https://user-images.githubusercontent.com/5016971/124803681-c9fa1980-df2f-11eb-97b7-09104666376c.png)
+
+
 
 ![](https://img.shields.io/badge/-natandiasm-blue?style=flat-square&logo=linkedin)
 ![](https://img.shields.io/badge/-natandias1-1769FF?style=flat-square&logo=behance)
@@ -18,5 +20,5 @@ I always like to study new things, and now I am studying these languages.
 I believe that ideas are the most important in all aspects of life. I like to take this aspect into the UI that I make using Adobe XD and I am studying inVision Studio.
 
 ### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natandiasm)](https://github.com/natandiasm)
-[![Natandiasm's github stats](https://github-readme-stats.vercel.app/api?username=natandiasm)](https://github.com/natandiasm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natandiasm&theme=material-palenight)](https://github.com/natandiasm)
+[![Natandiasm's github stats](https://github-readme-stats.vercel.app/api?username=natandiasm&theme=material-palenight)](https://github.com/natandiasm)
