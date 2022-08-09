@@ -5,7 +5,8 @@
 ![](https://img.shields.io/badge/-natandiasm-blue?style=flat-square&logo=linkedin)
 ![](https://img.shields.io/badge/-natandias1-1769FF?style=flat-square&logo=behance)
 
-I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
+Hello I'm a back end developer, I use ruby and python for bigdata.
+And I like studying IoT as a hobby.
 
 ### 👨🏽‍🏫 Study much more.
 I always like to study new things, and now I am studying these languages.
